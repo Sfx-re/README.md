@@ -61,7 +61,7 @@ Welcome to the Sfx-re GitHub organization, home to SitizenFX's projects, includi
 
 ## Contact
 
-For questions about licensing, contributions, or project support, contact SitizenFX / Sfx-re through the GitHub organization page or email [your official email].
+For questions about licensing, contributions, or project support, contact SitizenFX / Sfx-re through the GitHub organization page or  official email: legalvidllq@gmail.com
 
 ---
 
